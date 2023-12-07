@@ -2,7 +2,7 @@
 - 👀 I’m interested in Swift, Firmware, C/C++
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : daniel8449@kaist.ac.kr
+- 📫 How to reach me : mk.chung@kaist.ac.kr
 
 <!---
 MYUNGKUN/MYUNGKUN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
