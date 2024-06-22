@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MYUNGKUN, Ph.D student, EE, KAIST
-- 👀 I’m interested in Swift, Firmware, C/C++
+- 👀 I’m interested in Swift, Firmware, C/C++, ML for devices
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mk.chung@kaist.ac.kr
